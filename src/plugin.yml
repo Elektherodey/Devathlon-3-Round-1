@@ -1,0 +1,13 @@
+name: Zauberei
+version: 1.0
+author: Elektherodey
+
+main: de.Elektherodey.Zauberei.Main.Main
+
+permissions:
+    zauberei.*:
+      Description: All Permissions
+      default: op
+    zauberei.enterportal:
+      Description: Enter Portal
+      default: op
